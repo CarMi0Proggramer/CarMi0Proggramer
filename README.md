@@ -1,4 +1,4 @@
-<h1 align="center">Desarrollador Frontend Carlos Miguel</h1>
+<h1 align="center">Desarrollador Backend Carlos Miguel</h1>
 <h3 align="center">Apasionado por la programación y la tecnología</h3>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS**
