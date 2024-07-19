@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://cm_dev06.onrender.com](https://cm_dev06.onrender.com)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, Typescript, TailwindCSS, PostgreSQL, Git**
+- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, Typescript, TailwindCSS, PostgreSQL and Git.**
 
 - 📫 How to reach me **carlosmiguelgarcesbasulto@gmail.com**
 
