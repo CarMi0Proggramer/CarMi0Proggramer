@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Node.js, Typescript, TailwindCSS, PostgreSQL and Git.**
 
-- 📫 How to reach me **carlosmiguelgarcesbasulto@gmail.com**
+- 📫 How to reach me **carlosmiguel.dev06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
