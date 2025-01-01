@@ -14,12 +14,12 @@ Actualmente trabajo como **Freelancer** y en mi proyecto personal llamado **Them
 
 <table style="width: 100%">
   <tr>
-    <td style="width:50%;">
+    <td>
       <a href="https://github.com/ThemeMarket">
         <img src="./img/projects/thememarket.webp" />
       </a>
     </td>
-    <td style="width:50%;">
+    <td style="max-width:50%;">
       <a href="https://gotosend.com">
         <img src="./img/projects/gotosend.webp" />
       </a>
