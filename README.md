@@ -27,7 +27,7 @@ Actualmente trabajo como **Freelancer** y en mi proyecto personal llamado **Them
 <table style="width: 100%">
   <tr>
     <td>
-      <a href="#">
+      <a href="https://youtu.be/AMjlik4Rlvg">
         <img src="./img/videos/angular-nestjs-course.webp" />
       </a>
     </td>
