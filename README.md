@@ -20,13 +20,6 @@ Actualmente trabajo como **Freelancer** y en mi proyecto personal llamado **Them
       </a>
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://gotosend.com">
-        <img src="./img/projects/gotosend.webp" />
-      </a>
-    </td>
-  </tr>
 </table>
 
 ## Algunos de mis videos 📹
