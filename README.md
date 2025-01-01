@@ -19,7 +19,9 @@ Actualmente trabajo como **Freelancer** y en mi proyecto personal llamado **Them
         <img src="./img/projects/thememarket.webp" />
       </a>
     </td>
-    <td style="max-width:50%;">
+  </tr>
+  <tr>
+    <td>
       <a href="https://gotosend.com">
         <img src="./img/projects/gotosend.webp" />
       </a>
