@@ -4,11 +4,9 @@
 
 Freelancer FullStack Web Developer y Youtuber Cubano 🇨🇺, me encanta **colaborar** en proyectos y **compartir** mis conocimientos con la comunidad. Mi objetivo es ayudar a otros a aprender de una forma más sencilla de lo que fue **para mí**.
 
-Actualmente trabajo como **Freelancer** y en mi proyecto personal llamado **Theme Market**, un marketplace de sitios webs totalmente gratuito para que los desarrolladores puedan mejorar su productividad utilizando nuestras plantillas.
-
 ## Experiencia 🔭
 
--   Desarrollador Freelance: He trabajado en varios proyectos utilizando tecnologías como Angular, React, PHP, Docker, NestJS, entre otras.
+-   Desarrollador Freelance: He trabajado en varios proyectos utilizando tecnologías como Angular, PHP, Laravel, Docker, NestJS, entre otras.
 
 ## Proyectos Destacados 💼
 
@@ -48,10 +46,6 @@ Actualmente trabajo como **Freelancer** y en mi proyecto personal llamado **Them
     </td>
   </tr>
 </table>
-
-## ¿Deseas Colaborar? 🤝
-
-Todos los proyectos que estamos creando en **Theme Market** son totalmente **Open Source** por lo que siempre puedes **bifurcar** una plantilla, enviar una **pull request** y nosotros nos encargaremos de revisarla. Para ver todas las plantillas disponibles [haz click aquí](https://github.com/ThemeMarket?tab=repositories).
 
 ## Conéctate Conmigo
 
