@@ -10,13 +10,13 @@
 
 <div align="center">
   <a href="https://github.com/CarMi0Proggramer" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=CarMi0Proggramer&label=Profile%20views&color=ff8637&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
+    <img src="https://komarev.com/ghpvc/?username=CarMi0Proggramer&label=Profile%20views&color=ff8637&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a><br />
 
   <a href="https://github.com/CarMi0Proggramer?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/CarMi0Proggramer?style=for-the-badge&label=Stars&color=ff7b18&logo=github" /></a>
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/CarMi0Proggramer?style=for-the-badge&label=Stars&color=ff7b18&logo=github" /></a><br />
 
   <a href="https://github.com/CarMi0Proggramer?tab=followers" target="_blank">
-    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/CarMi0Proggramer?style=for-the-badge&label=Followers&color=ff6900&logo=github" /></a>
+    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/CarMi0Proggramer?style=for-the-badge&label=Followers&color=ff6900&logo=github" /></a><br />
 </div>
 
 <h3 align="center">Languages & Tools</h3>
