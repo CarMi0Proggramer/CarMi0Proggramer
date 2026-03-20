@@ -23,9 +23,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,html,css,vite,angular,vue" /><br/>
-
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nest,npm,bun" /><br/>
-
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,jest,postgresql,mysql,mongodb" /><br/>
 
 </div>
