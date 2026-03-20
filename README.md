@@ -10,23 +10,23 @@
 
 <div align="center">
   <a href="https://github.com/CarMi0Proggramer" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=CarMi0Proggramer&label=Profile%20views&color=ff8637&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a><br />
+    <img src="https://komarev.com/ghpvc/?username=CarMi0Proggramer&label=Profile%20views&color=ff8637&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
 
   <a href="https://github.com/CarMi0Proggramer?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/CarMi0Proggramer?style=for-the-badge&label=Stars&color=ff7b18&logo=github" /></a><br />
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/CarMi0Proggramer?style=for-the-badge&label=Stars&color=ff7b18&logo=github" /></a>
 
   <a href="https://github.com/CarMi0Proggramer?tab=followers" target="_blank">
-    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/CarMi0Proggramer?style=for-the-badge&label=Followers&color=ff6900&logo=github" /></a><br />
+    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/CarMi0Proggramer?style=for-the-badge&label=Followers&color=ff6900&logo=github" /></a>
 </div>
 
 <h3 align="center">Languages & Tools</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,vite,angular,vue" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,vite,angular,vue" /><br/>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nest,npm,bun" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nest,npm,bun" /><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,jest,postgresql,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,jest,postgresql,mysql,mongodb" /><br/>
 
 </div>
 
